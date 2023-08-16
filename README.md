@@ -14,4 +14,4 @@ Hints:
 * The issue of leap years can be ignored.
 * You don't have to define any custom classes, but you can if you want to.
 * You don't have to write unit tests for the parts of the program that generate random data.
-* Don't forget to seed the random number generator. You can do this in `main`.
+* Refer to "Lab 9: Randomness" for proper random number generation.
